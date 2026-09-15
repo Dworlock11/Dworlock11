@@ -1,2 +1,2 @@
-## Hello
+## Hello Everyone
 Computer Science student with a strong foundation in data science, statistics, and machine learning. Experienced with Python, SQL, data analysis, visualization, and predictive modeling through academic and personal projects. Seeking internships in data science, analytics, or ML.
